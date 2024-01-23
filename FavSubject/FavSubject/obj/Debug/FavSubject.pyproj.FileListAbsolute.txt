@@ -1,0 +1,12 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\bin\Debug\FavSubject.exe.config
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\bin\Debug\FavSubject.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\bin\Debug\FavSubject.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\bin\Debug\IronPython.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\bin\Debug\IronPython.Modules.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\bin\Debug\Microsoft.Scripting.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\obj\Debug\FavSubject.pyprojResolveAssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\obj\Debug\FavSubject.MainForm.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\obj\Debug\FavSubject.pyproj.GenerateResource.Cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\FavSubject\FavSubject\obj\Debug\FavSubject.exe
