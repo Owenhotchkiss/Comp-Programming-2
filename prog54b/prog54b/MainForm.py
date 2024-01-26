@@ -22,6 +22,8 @@ class MainForm(Form):
 		self._button1 = System.Windows.Forms.Button()
 		self._button2 = System.Windows.Forms.Button()
 		self._button3 = System.Windows.Forms.Button()
+		self._label7 = System.Windows.Forms.Label()
+		self._label8 = System.Windows.Forms.Label()
 		self.SuspendLayout()
 		# 
 		# label1
@@ -108,7 +110,7 @@ class MainForm(Form):
 		# 
 		# button1
 		# 
-		self._button1.Location = System.Drawing.Point(191, 213)
+		self._button1.Location = System.Drawing.Point(268, 215)
 		self._button1.Name = "button1"
 		self._button1.Size = System.Drawing.Size(89, 47)
 		self._button1.TabIndex = 10
@@ -118,26 +120,46 @@ class MainForm(Form):
 		# 
 		# button2
 		# 
-		self._button2.Location = System.Drawing.Point(286, 213)
+		self._button2.Location = System.Drawing.Point(363, 213)
 		self._button2.Name = "button2"
 		self._button2.Size = System.Drawing.Size(90, 49)
 		self._button2.TabIndex = 11
 		self._button2.Text = "Clear"
 		self._button2.UseVisualStyleBackColor = True
+		self._button2.Click += self.Button2Click
 		# 
 		# button3
 		# 
-		self._button3.Location = System.Drawing.Point(191, 268)
+		self._button3.Location = System.Drawing.Point(268, 268)
 		self._button3.Name = "button3"
 		self._button3.Size = System.Drawing.Size(185, 45)
 		self._button3.TabIndex = 12
 		self._button3.Text = "Exit"
 		self._button3.UseVisualStyleBackColor = True
+		self._button3.Click += self.Button3Click
+		# 
+		# label7
+		# 
+		self._label7.BackColor = System.Drawing.Color.Tan
+		self._label7.Location = System.Drawing.Point(141, 231)
+		self._label7.Name = "label7"
+		self._label7.Size = System.Drawing.Size(100, 23)
+		self._label7.TabIndex = 13
+		# 
+		# label8
+		# 
+		self._label8.BackColor = System.Drawing.Color.Tan
+		self._label8.Location = System.Drawing.Point(141, 268)
+		self._label8.Name = "label8"
+		self._label8.Size = System.Drawing.Size(100, 23)
+		self._label8.TabIndex = 14
 		# 
 		# MainForm
 		# 
 		self.BackColor = System.Drawing.Color.Coral
 		self.ClientSize = System.Drawing.Size(465, 317)
+		self.Controls.Add(self._label8)
+		self.Controls.Add(self._label7)
 		self.Controls.Add(self._button3)
 		self.Controls.Add(self._button2)
 		self.Controls.Add(self._button1)
@@ -162,5 +184,18 @@ class MainForm(Form):
 		num2 = int(self._textBox2.Text)
 		num3 = int(self._textBox3.Text)
 		num4 = int(self._textBox4.Text)
-		sum = num1 + num2 + num3 + num4
-		average = sum / 4
+		Sum1 = num1 + num2 + num3 + num4
+		average = Sum1 / 4.0
+		self._label7.Text = str(Sum1)
+		self._label8.Text = str(average)
+
+	def Button2Click(self, sender, e):
+		self._textBox1.Text = ""
+		self._textBox2.Text = ""
+		self._textBox3.Text = ""
+		self._textBox4.Text = ""
+		self._label7.Text = ""
+		self._label8.Text = ""
+
+	def Button3Click(self, sender, e):
+		Application.Exit()
