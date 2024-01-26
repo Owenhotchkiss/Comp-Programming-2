@@ -127,8 +127,8 @@ class MainForm(Form):
 		radius = float(self._textBox1.Text)
 		circum = 2 * pi * radius
 		area = radius * radius * pi
-		self._label7.Text = str(area)
-		self._label8.Text = str(circum)
+		self._label7.Text = str(round (area,3))
+		self._label8.Text = str(round (circum, 3))
 
 	def Button2Click(self, sender, e):
 		self._textBox1.Text = ""
