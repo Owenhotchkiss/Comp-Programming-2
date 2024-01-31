@@ -12,6 +12,6 @@ elif 6 < dozens < 11:
 elif 11 < dozens:
   price = 0.35
 
-numeggs = (dozens * 12)
-total = numeggs * price
+numeggs = (dozens * price)
+total = numeggs + (price/12.0) * remainder
 print("Total Price is: $" + str(total))
