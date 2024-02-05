@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{9196047E-FCB7-4401-983C-77BC1687E852}</ProjectGuid>
+    <ProjectGuid>{6FFD1330-9A4F-491F-8E95-B7E381BE9B56}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <RootNamespace>prog166e</RootNamespace>
-    <AssemblyName>prog166e</AssemblyName>
+    <RootNamespace>prog122a</RootNamespace>
+    <AssemblyName>prog122a</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -20,7 +20,7 @@
     <DebugInfo>True</DebugInfo>
     <StartArguments>-X:Debug Program.py</StartArguments>
     <StartWorkingDirectory>.\</StartWorkingDirectory>
-    <StartAction>Project</StartAction>
+    <StartAction>Program</StartAction>
     <StartProgram>C:\Program Files (x86)\SharpDevelop\4.4\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
