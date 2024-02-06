@@ -103,4 +103,7 @@ class MainForm(Form):
 
 
 	def Button1Click(self, sender, e):
-		pass
+		self._textBox1.Text = ""
+		self._label3.Text = ""
+		word = self._textBox1.Text.lower()
+		if 
