@@ -72,7 +72,9 @@ class MainForm(Form):
 	def Button1Click(self, sender, e):
 		self._listBox1.Items.Clear()
 		lcv = 1
+		col2 = 0
+		col3 = 0
 		while lcv <= 50:
-			self._listBox1.Items>add(str(lcv \t str(col2) \t str(col3)
+			self._listBox1.Items.Add(str(lcv) + "\t" + str(col2) + "\t" + str(col3)
 			col2 = lcv^2
 			col3 = math.sqrt(lcv)
