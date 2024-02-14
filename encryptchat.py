@@ -1,28 +1,28 @@
-import rsa # pip install rsa
+import rsa  # pip install rsa
 import socket
 import threading
 
-public_key, private_key = rsa.newkeys(1024) #1014 bits
-DEFAULT_IP_PORT = ("127.0.01", 9999)
-choice = input("Do You Want to be Server or Client? (s/c): ")
+public_key, private_key = rsa.newkeys(1024)  # 1024 bits
+DEFAULT_IP_PORT = ("127.0.0.1", 9999)
+choice = input("Do you want to be the server or client? (s/c): ")
 
 if choice == "s":
   server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-  server.bind(DEFAULT_IP_PORT)
+  server.bind(DEFAULT_IP_PORT)  # Open TCP connection
   server.listen()
   print("Waiting for connection...")
   client, addr = server.accept()
   print("Connected to", addr)
-  client.send(public_key.save_pcks1())
+  client.send(public_key.save_pkcs1())
   public_partner = rsa.PublicKey.load_pkcs1(client.recv(1024))
   print("Use 'Ctrl+C' to disconnect.")
 elif choice == "c":
   print("Connecting to server...", end="")
   client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
   client.connect(DEFAULT_IP_PORT)
-  print("success! Connected to", client.getpeername())
-  public_partner = rsa.PublicKey.load_pcks1(client.recv(1024))
-  client.send(public_key.save_pcks1())
+  print("success! Connected to " + str(client.getpeername()))
+  public_partner = rsa.PublicKey.load_pkcs1(client.recv(1024))
+  client.send(public_key.save_pkcs1())
   print("Use 'Ctrl+C' to disconnect.")
 else: exit()
 
@@ -30,9 +30,9 @@ def sendMsg(c):
   while True:
     try:
       msg = input()
-      print('\033[1A' + '\033[K', end='')
+      print('\033[1A' + '\033[K', end='')  # Delete input line
       c.send(rsa.encrypt(msg.encode(), public_partner))
-      print("\033[91mYou: \033[0m" +msg)
+      print("\033[91mYou: \033[0m" + msg)
     except: exit()
 
 def recvMsg(c):
