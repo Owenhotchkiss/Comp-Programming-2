@@ -106,4 +106,4 @@ class MainForm(Form):
 		self._textBox1.Text = ""
 		self._label3.Text = ""
 		word = self._textBox1.Text.lower()
-		if 
+		
