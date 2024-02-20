@@ -143,4 +143,14 @@ class MainForm(Form):
 
 
 	def Button1Click(self, sender, e):
-		
+		charge = 0
+		duration = self._textBox1.Text
+		rate = 0
+		if self._radioButton1.Checked:
+			rate = 0.07
+		elif self._radioButton2.Checked:
+			rate = 0.12
+		elif self._radiobutton3.Checked:
+			rate = 0.05
+		charge = rate * duration
+		self._label3.Text = str(charge)
