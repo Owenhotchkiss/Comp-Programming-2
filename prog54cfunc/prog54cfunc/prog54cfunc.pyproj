@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{3220DC32-C510-4006-B800-C1FCB0F2551E}</ProjectGuid>
+    <ProjectGuid>{BB1B285F-72D5-430F-856A-742331600B06}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <RootNamespace>pg272longdistance</RootNamespace>
-    <AssemblyName>pg272longdistance</AssemblyName>
+    <RootNamespace>prog54cfunc</RootNamespace>
+    <AssemblyName>prog54cfunc</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -20,7 +20,7 @@
     <DebugInfo>True</DebugInfo>
     <StartArguments>-X:Debug Program.py</StartArguments>
     <StartWorkingDirectory>.\</StartWorkingDirectory>
-    <StartAction>Project</StartAction>
+    <StartAction>Program</StartAction>
     <StartProgram>C:\Program Files (x86)\SharpDevelop\4.4\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
@@ -64,11 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="MainForm.resx">
-      <DependentUpon>MainForm.py</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(PythonBinPath)\SharpDevelop.Build.Python.targets" />
 </Project>
