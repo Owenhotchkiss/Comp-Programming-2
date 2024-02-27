@@ -67,5 +67,10 @@
   <ItemGroup>
     <None Include="app.config" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmGeneral.resx">
+      <DependentUpon>frmGeneral.py</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(PythonBinPath)\SharpDevelop.Build.Python.targets" />
 </Project>
