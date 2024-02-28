@@ -22,6 +22,7 @@ class frmGeneral(Form):
 		self._radioButton3 = System.Windows.Forms.RadioButton()
 		self._button1 = System.Windows.Forms.Button()
 		self._button2 = System.Windows.Forms.Button()
+		self._label4 = System.Windows.Forms.Label()
 		self.SuspendLayout()
 		# 
 		# textBox1
@@ -29,9 +30,9 @@ class frmGeneral(Form):
 		self._textBox1.BackColor = System.Drawing.Color.DodgerBlue
 		self._textBox1.Font = System.Drawing.Font("Microsoft Sans Serif", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
 		self._textBox1.ForeColor = System.Drawing.Color.White
-		self._textBox1.Location = System.Drawing.Point(12, 12)
+		self._textBox1.Location = System.Drawing.Point(195, 12)
 		self._textBox1.Name = "textBox1"
-		self._textBox1.Size = System.Drawing.Size(411, 31)
+		self._textBox1.Size = System.Drawing.Size(228, 31)
 		self._textBox1.TabIndex = 0
 		# 
 		# textBox2
@@ -141,10 +142,20 @@ class frmGeneral(Form):
 		self._button2.Text = "Close"
 		self._button2.UseVisualStyleBackColor = False
 		# 
+		# label4
+		# 
+		self._label4.BackColor = System.Drawing.Color.YellowGreen
+		self._label4.Location = System.Drawing.Point(12, 12)
+		self._label4.Name = "label4"
+		self._label4.Size = System.Drawing.Size(158, 31)
+		self._label4.TabIndex = 14
+		self._label4.Text = "Number of Tickets:"
+		# 
 		# frmGeneral
 		# 
 		self.BackColor = System.Drawing.Color.LemonChiffon
 		self.ClientSize = System.Drawing.Size(435, 332)
+		self.Controls.Add(self._label4)
 		self.Controls.Add(self._button2)
 		self.Controls.Add(self._button1)
 		self.Controls.Add(self._radioButton3)
@@ -178,5 +189,3 @@ class frmGeneral(Form):
 			ppt = 15
 		elif self._radiobutton3.Checked:
 			ppt = 10
-		else:
-			ppt = 7

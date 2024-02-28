@@ -1,0 +1,13 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\bin\Debug\pg435TicketSalesPython.exe.config
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\bin\Debug\pg435TicketSalesPython.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\bin\Debug\pg435TicketSalesPython.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\bin\Debug\IronPython.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\bin\Debug\IronPython.Modules.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\bin\Debug\Microsoft.Scripting.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\obj\Debug\pg435TicketSalesPython.pyprojResolveAssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\obj\Debug\pg435TicketSalesPython.frmGeneral.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\obj\Debug\pg435TicketSalesPython.pyproj.GenerateResource.Cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\obj\Debug\pg435TicketSalesPython.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\obj\Debug\pg435TicketSalesPython.frmStudent.resources

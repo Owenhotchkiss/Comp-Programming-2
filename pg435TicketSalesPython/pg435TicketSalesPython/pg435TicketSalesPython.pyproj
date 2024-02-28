@@ -71,6 +71,9 @@
     <EmbeddedResource Include="frmGeneral.resx">
       <DependentUpon>frmGeneral.py</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmStudent.resx">
+      <DependentUpon>frmStudent.py</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(PythonBinPath)\SharpDevelop.Build.Python.targets" />
 </Project>
