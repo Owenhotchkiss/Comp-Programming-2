@@ -11,3 +11,4 @@ C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\obj\Debug\pg435TicketSalesPython.pyproj.GenerateResource.Cache
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\obj\Debug\pg435TicketSalesPython.exe
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\obj\Debug\pg435TicketSalesPython.frmStudent.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\pg435TicketSalesPython\pg435TicketSalesPython\obj\Debug\pg435TicketSalesPython.MainForm.resources

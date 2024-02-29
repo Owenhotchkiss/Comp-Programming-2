@@ -5,8 +5,9 @@ import System.Windows.Forms
 from System.Drawing import *
 from System.Windows.Forms import *
 
-class fromStudent(Form):
-	def __init__(self):
+class frmStudent(Form):
+	def __init__(self, parent):
+		self.parent = parent
 		self.InitializeComponent()
 	
 	def InitializeComponent(self):
@@ -86,6 +87,7 @@ class fromStudent(Form):
 		self._button2.TabIndex = 9
 		self._button2.Text = "Exit"
 		self._button2.UseVisualStyleBackColor = False
+		self._button2.Click += self.Button2Click
 		# 
 		# textBox2
 		# 
@@ -111,7 +113,7 @@ class fromStudent(Form):
 		self._textBox4.Size = System.Drawing.Size(100, 20)
 		self._textBox4.TabIndex = 12
 		# 
-		# fromStudent
+		# frmStudent
 		# 
 		self.BackColor = System.Drawing.Color.SlateBlue
 		self.ClientSize = System.Drawing.Size(291, 317)
@@ -125,7 +127,7 @@ class fromStudent(Form):
 		self.Controls.Add(self._label2)
 		self.Controls.Add(self._textBox1)
 		self.Controls.Add(self._label1)
-		self.Name = "fromStudent"
+		self.Name = "frmStudent"
 		self.Text = "fromStudent"
 		self.ResumeLayout(False)
 		self.PerformLayout()
@@ -141,3 +143,6 @@ class fromStudent(Form):
 		self._textBox2.Text = str(tax)
 		self._textBox3.Text = str(total)
 		
+
+	def Button2Click(self, sender, e):
+		Application.Exit()
