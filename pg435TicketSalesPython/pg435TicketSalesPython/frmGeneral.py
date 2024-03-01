@@ -6,7 +6,8 @@ from System.Drawing import *
 from System.Windows.Forms import *
 
 class frmGeneral(Form):
-	def __init__(self):
+	def __init__(self, parent):
+		self.myparent = parent
 		self.InitializeComponent()
 	
 	def InitializeComponent(self):
@@ -86,7 +87,7 @@ class frmGeneral(Form):
 		self._label1.Name = "label1"
 		self._label1.Size = System.Drawing.Size(100, 23)
 		self._label1.TabIndex = 7
-		self._label1.Text = "Tickets:"
+		self._label1.Text = "Price per Ticket:"
 		# 
 		# radioButton1
 		# 
@@ -141,6 +142,7 @@ class frmGeneral(Form):
 		self._button2.TabIndex = 13
 		self._button2.Text = "Close"
 		self._button2.UseVisualStyleBackColor = False
+		self._button2.Click += self.Button2Click
 		# 
 		# label4
 		# 
@@ -181,11 +183,19 @@ class frmGeneral(Form):
 		pass
 
 	def Button1Click(self, sender, e):
-		numTickets = 0
+		numTickets = int(self._textBox1.Text)
 		ppt = 0
+		tax = 0.06
 		if self._radioButton1.Checked:
 			ppt = 20
 		elif self._radioButton2.Checked:
 			ppt = 15
-		elif self._radiobutton3.Checked:
+		elif self._radioButton3.Checked:
 			ppt = 10
+		total = numTickets * tax * ppt
+		self._textBox2.Text = str(ppt)
+		self._textBox3.Text = str(tax)
+		self._textBox4.Text = str(total)
+
+	def Button2Click(self, sender, e):
+		Application.Exit()

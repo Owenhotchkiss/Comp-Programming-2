@@ -27,6 +27,7 @@ class MainForm(Form):
 		self._button3.TabIndex = 15
 		self._button3.Text = "Exit"
 		self._button3.UseVisualStyleBackColor = False
+		self._button3.Click += self.Button3Click
 		# 
 		# button2
 		# 
@@ -37,6 +38,7 @@ class MainForm(Form):
 		self._button2.TabIndex = 14
 		self._button2.Text = "Clear"
 		self._button2.UseVisualStyleBackColor = False
+		self._button2.Click += self.Button2Click
 		# 
 		# button1
 		# 
@@ -104,6 +106,19 @@ class MainForm(Form):
 
 	def Button1Click(self, sender, e):
 		word = self._textBox1.Text.lower()
-		for x in word:
+		for letter in word:
+			if word.count(letter) < 2:
+				self._label3.Text = str(letter)
+				break
+				
+		if self._label3.Text == "":
+			self._label3.Text= "NONE"
 		
 		
+
+	def Button2Click(self, sender, e):
+		self._textBox1.Text = ""
+		self._label3.Text = ""
+
+	def Button3Click(self, sender, e):
+		Application.Exit()
