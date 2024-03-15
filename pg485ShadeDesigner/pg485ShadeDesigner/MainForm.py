@@ -1,6 +1,7 @@
 ﻿import System.Drawing
 import System.Windows.Forms
 
+
 from System.Drawing import *
 from System.Windows.Forms import *
 
@@ -109,6 +110,7 @@ class MainForm(Form):
 		self._button2.TabIndex = 7
 		self._button2.Text = "Exit"
 		self._button2.UseVisualStyleBackColor = False
+		self._button2.Click += self.Button2Click
 		# 
 		# label4
 		# 
@@ -171,24 +173,27 @@ class MainForm(Form):
 		sizePrice = 0
 		colorPrice = 0
 		numShades = int(self._textBox1.Text)
-		if comboBox1.Text == "Regular Shades":
+		if self._comboBox1.Text == "Regular Shades":
 			stylePrice = 0
-		elif comboBox1.Text == "Folding Shades":
+		elif self._comboBox1.Text == "Folding Shades":
 			stylePrice = 10
-		elif comboBox1.Text == "Roman Shades":
+		elif self._comboBox1.Text == "Roman Shades":
 			stylePrice = 15
-		if comboBox2.Text == "25 in":
+		if self._comboBox2.Text == "25 in":
 			sizePrice = 0
-		elif comboBox2.Text == "27 in":
+		elif self._comboBox2.Text == "27 in":
 			sizePrice = 2
-		elif comboBox2.Text == "32 in":
+		elif self._comboBox2.Text == "32 in":
 			sizePrice = 4
-		elif comboBox2.Text == "40 in":
+		elif self._comboBox2.Text == "40 in":
 			sizePrice = 6
-		if comboBox3.Text == "Natural":
+		if self._comboBox3.Text == "Natural":
 			colorPrice = 5
 		else:
 			colorPrice = 0
 		price = (numShades * 50) + stylePrice + sizePrice + colorPrice
-		self._label5.Text = price
+		self._label5.Text = str(price)
 					
+
+	def Button2Click(self, sender, e):
+		Application.Exit()
