@@ -9,8 +9,6 @@ class MainForm(Form):
 		self.InitializeComponent()
 	
 	def InitializeComponent(self):
-		self._textBox1 = System.Windows.Forms.TextBox()
-		self._label6 = System.Windows.Forms.Label()
 		self._label5 = System.Windows.Forms.Label()
 		self._label4 = System.Windows.Forms.Label()
 		self._button2 = System.Windows.Forms.Button()
@@ -21,28 +19,14 @@ class MainForm(Form):
 		self._label2 = System.Windows.Forms.Label()
 		self._comboBox1 = System.Windows.Forms.ComboBox()
 		self._label1 = System.Windows.Forms.Label()
-		self._radioButton2 = System.Windows.Forms.RadioButton()
-		self._radioButton3 = System.Windows.Forms.RadioButton()
-		self._radioButton4 = System.Windows.Forms.RadioButton()
-		self._radioButton5 = System.Windows.Forms.RadioButton()
-		self._radioButton1 = System.Windows.Forms.RadioButton()
+		self._label6 = System.Windows.Forms.Label()
+		self._label7 = System.Windows.Forms.Label()
+		self._checkBox1 = System.Windows.Forms.CheckBox()
+		self._checkBox2 = System.Windows.Forms.CheckBox()
+		self._checkBox3 = System.Windows.Forms.CheckBox()
+		self._checkBox4 = System.Windows.Forms.CheckBox()
+		self._checkBox5 = System.Windows.Forms.CheckBox()
 		self.SuspendLayout()
-		# 
-		# textBox1
-		# 
-		self._textBox1.Location = System.Drawing.Point(415, 27)
-		self._textBox1.Name = "textBox1"
-		self._textBox1.Size = System.Drawing.Size(100, 20)
-		self._textBox1.TabIndex = 23
-		# 
-		# label6
-		# 
-		self._label6.BackColor = System.Drawing.Color.LightPink
-		self._label6.Location = System.Drawing.Point(294, 27)
-		self._label6.Name = "label6"
-		self._label6.Size = System.Drawing.Size(100, 23)
-		self._label6.TabIndex = 22
-		self._label6.Text = "Number of Shades:"
 		# 
 		# label5
 		# 
@@ -146,70 +130,82 @@ class MainForm(Form):
 		self._label1.TabIndex = 12
 		self._label1.Text = "Deck:"
 		# 
-		# radioButton2
+		# label6
 		# 
-		self._radioButton2.BackColor = System.Drawing.Color.Khaki
-		self._radioButton2.Location = System.Drawing.Point(306, 111)
-		self._radioButton2.Name = "radioButton2"
-		self._radioButton2.Size = System.Drawing.Size(104, 24)
-		self._radioButton2.TabIndex = 25
-		self._radioButton2.TabStop = True
-		self._radioButton2.Text = "Bearings"
-		self._radioButton2.UseVisualStyleBackColor = False
+		self._label6.BackColor = System.Drawing.Color.Crimson
+		self._label6.Location = System.Drawing.Point(310, 24)
+		self._label6.Name = "label6"
+		self._label6.Size = System.Drawing.Size(100, 23)
+		self._label6.TabIndex = 30
+		self._label6.Text = "Sales tax is:"
 		# 
-		# radioButton3
+		# label7
 		# 
-		self._radioButton3.BackColor = System.Drawing.Color.Khaki
-		self._radioButton3.Location = System.Drawing.Point(306, 164)
-		self._radioButton3.Name = "radioButton3"
-		self._radioButton3.Size = System.Drawing.Size(104, 24)
-		self._radioButton3.TabIndex = 26
-		self._radioButton3.TabStop = True
-		self._radioButton3.Text = "Riser Pads"
-		self._radioButton3.UseVisualStyleBackColor = False
+		self._label7.BackColor = System.Drawing.Color.HotPink
+		self._label7.Location = System.Drawing.Point(416, 24)
+		self._label7.Name = "label7"
+		self._label7.Size = System.Drawing.Size(100, 23)
+		self._label7.TabIndex = 31
 		# 
-		# radioButton4
+		# checkBox1
 		# 
-		self._radioButton4.BackColor = System.Drawing.Color.Khaki
-		self._radioButton4.Location = System.Drawing.Point(306, 212)
-		self._radioButton4.Name = "radioButton4"
-		self._radioButton4.Size = System.Drawing.Size(104, 24)
-		self._radioButton4.TabIndex = 27
-		self._radioButton4.TabStop = True
-		self._radioButton4.Text = "Nuts & Bolts Kits"
-		self._radioButton4.UseVisualStyleBackColor = False
+		self._checkBox1.BackColor = System.Drawing.Color.Khaki
+		self._checkBox1.Location = System.Drawing.Point(310, 65)
+		self._checkBox1.Name = "checkBox1"
+		self._checkBox1.Size = System.Drawing.Size(104, 24)
+		self._checkBox1.TabIndex = 32
+		self._checkBox1.Text = "Grip Tape"
+		self._checkBox1.UseVisualStyleBackColor = False
 		# 
-		# radioButton5
+		# checkBox2
 		# 
-		self._radioButton5.BackColor = System.Drawing.Color.Khaki
-		self._radioButton5.Location = System.Drawing.Point(306, 259)
-		self._radioButton5.Name = "radioButton5"
-		self._radioButton5.Size = System.Drawing.Size(104, 24)
-		self._radioButton5.TabIndex = 28
-		self._radioButton5.TabStop = True
-		self._radioButton5.Text = "Assembly"
-		self._radioButton5.UseVisualStyleBackColor = False
+		self._checkBox2.BackColor = System.Drawing.Color.Khaki
+		self._checkBox2.Location = System.Drawing.Point(310, 110)
+		self._checkBox2.Name = "checkBox2"
+		self._checkBox2.Size = System.Drawing.Size(104, 24)
+		self._checkBox2.TabIndex = 33
+		self._checkBox2.Text = "Bearings"
+		self._checkBox2.UseVisualStyleBackColor = False
 		# 
-		# radioButton1
+		# checkBox3
 		# 
-		self._radioButton1.BackColor = System.Drawing.Color.Khaki
-		self._radioButton1.Location = System.Drawing.Point(306, 71)
-		self._radioButton1.Name = "radioButton1"
-		self._radioButton1.Size = System.Drawing.Size(104, 24)
-		self._radioButton1.TabIndex = 29
-		self._radioButton1.TabStop = True
-		self._radioButton1.Text = "Grip Tape"
-		self._radioButton1.UseVisualStyleBackColor = False
+		self._checkBox3.BackColor = System.Drawing.Color.Khaki
+		self._checkBox3.Location = System.Drawing.Point(310, 161)
+		self._checkBox3.Name = "checkBox3"
+		self._checkBox3.Size = System.Drawing.Size(104, 24)
+		self._checkBox3.TabIndex = 34
+		self._checkBox3.Text = "Riser Pads"
+		self._checkBox3.UseVisualStyleBackColor = False
+		# 
+		# checkBox4
+		# 
+		self._checkBox4.BackColor = System.Drawing.Color.Khaki
+		self._checkBox4.Location = System.Drawing.Point(310, 208)
+		self._checkBox4.Name = "checkBox4"
+		self._checkBox4.Size = System.Drawing.Size(104, 24)
+		self._checkBox4.TabIndex = 35
+		self._checkBox4.Text = "Nuts & Bolts Kits"
+		self._checkBox4.UseVisualStyleBackColor = False
+		# 
+		# checkBox5
+		# 
+		self._checkBox5.BackColor = System.Drawing.Color.Khaki
+		self._checkBox5.Location = System.Drawing.Point(310, 260)
+		self._checkBox5.Name = "checkBox5"
+		self._checkBox5.Size = System.Drawing.Size(104, 24)
+		self._checkBox5.TabIndex = 36
+		self._checkBox5.Text = "Assembly"
+		self._checkBox5.UseVisualStyleBackColor = False
 		# 
 		# MainForm
 		# 
-		self.ClientSize = System.Drawing.Size(848, 329)
-		self.Controls.Add(self._radioButton1)
-		self.Controls.Add(self._radioButton5)
-		self.Controls.Add(self._radioButton4)
-		self.Controls.Add(self._radioButton3)
-		self.Controls.Add(self._radioButton2)
-		self.Controls.Add(self._textBox1)
+		self.ClientSize = System.Drawing.Size(536, 329)
+		self.Controls.Add(self._checkBox5)
+		self.Controls.Add(self._checkBox4)
+		self.Controls.Add(self._checkBox3)
+		self.Controls.Add(self._checkBox2)
+		self.Controls.Add(self._checkBox1)
+		self.Controls.Add(self._label7)
 		self.Controls.Add(self._label6)
 		self.Controls.Add(self._label5)
 		self.Controls.Add(self._label4)
@@ -224,46 +220,51 @@ class MainForm(Form):
 		self.Name = "MainForm"
 		self.Text = "pg485skateboarddesigner"
 		self.ResumeLayout(False)
-		self.PerformLayout()
 
 
 	def Button1Click(self, sender, e):
 		price = 0
+		tax = 0
 		deckPrice = 0
 		truckPrice = 0
 		wheelPrice = 0
 		miscPrice = 0
 		
-		numShades = int(self._textBox1.Text)
-		if self._comboBox1.Text == "Regular Shades":
-			stylePrice = 0
-		elif self._comboBox1.Text == "Folding Shades":
-			stylePrice = 10
-		elif self._comboBox1.Text == "Roman Shades":
-			stylePrice = 15
-		if self._comboBox2.Text == "25 in":
-			sizePrice = 0
-		elif self._comboBox2.Text == "27 in":
-			sizePrice = 2
-		elif self._comboBox2.Text == "32 in":
-			sizePrice = 4
-		elif self._comboBox2.Text == "40 in":
-			sizePrice = 6
-		if self._comboBox3.Text == "Natural":
-			colorPrice = 5
-		else:
-			colorPrice = 0
-		if self._radioButton1.Checked:
+		if self._comboBox1.Text == "The Master Thrasher":
+			deckPrice = 60
+		elif self._comboBox1.Text == "The Dictator of Grind":
+			deckPrice = 45
+		elif self._comboBox1.Text == "The Street King":
+			deckPrice = 50
+		if self._comboBox2.Text == "7.75 axle":
+			truckPrice = 35
+		elif self._comboBox2.Text == "8 axle":
+			truckPrice = 40
+		elif self._comboBox2.Text == "8.5 axle":
+			truckPrice = 45
+		if self._comboBox3.Text == "51 mm":
+			wheelPrice = 20
+		elif self._comboBox3.Text == "55 mm":
+			wheelPrice = 22
+		elif self._comboBox3.Text == "58 mm":
+			wheelPrice = 24
+		elif self._comboBox3.Text == "61 mm":
+			wheelPrice = 28
+			
+		if self._checkBox1.Checked:
 			miscPrice = miscPrice + 10
-		elif radiobutton2.Checked:
+		if self._checkBox2.Checked:
 			miscPrice = miscPrice + 30
-		elif radiobutton2.Checked:
+		if self._checkBox3.Checked:
 			miscPrice = miscPrice + 2
-		elif radiobutton2.Checked:
+		if self._checkBox4.Checked:
 			miscPrice = miscPrice + 3
-		elif radiobutton2.Checked:
+		if self._checkBox5.Checked:
 			miscPrice = miscPrice + 10
 		
-		price = (numShades * 50) + stylePrice + sizePrice + colorPrice + miscPrice
+		price = + wheelPrice + truckPrice + deckPrice + miscPrice
+		tax = price * 0.06
+		totalPrice = price * tax
 		self._label5.Text = str(price)
+		self._label7.Text = str(tax)
 		
