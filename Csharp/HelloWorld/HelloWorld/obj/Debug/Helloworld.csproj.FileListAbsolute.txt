@@ -1,0 +1,7 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\Helloworld\Helloworld\obj\Debug\Helloworld.csprojResolveAssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\Helloworld\Helloworld\obj\Debug\Helloworld.MainForm.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.GenerateResource.Cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\Helloworld\Helloworld\obj\Debug\Helloworld.pdb

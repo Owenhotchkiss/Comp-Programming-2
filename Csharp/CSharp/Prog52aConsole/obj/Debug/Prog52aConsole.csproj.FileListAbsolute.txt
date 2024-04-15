@@ -1,0 +1,6 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog52aConsole\bin\Debug\Prog52aConsole.exe.config
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog52aConsole\bin\Debug\Prog52aConsole.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog52aConsole\bin\Debug\Prog52aConsole.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog52aConsole\obj\Debug\Prog52aConsole.csprojResolveAssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog52aConsole\obj\Debug\Prog52aConsole.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog52aConsole\obj\Debug\Prog52aConsole.pdb

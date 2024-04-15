@@ -1,0 +1,6 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\FavClubConsole\bin\Debug\FavClubConsole.exe.config
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\FavClubConsole\bin\Debug\FavClubConsole.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\FavClubConsole\bin\Debug\FavClubConsole.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\FavClubConsole\obj\Debug\FavClubConsole.csprojResolveAssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\FavClubConsole\obj\Debug\FavClubConsole.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\FavClubConsole\obj\Debug\FavClubConsole.pdb
