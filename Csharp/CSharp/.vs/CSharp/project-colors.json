@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "598489db-de80-448a-ad7f-d22e5aaec943": {
+      "ProjectGuid": "598489db-de80-448a-ad7f-d22e5aaec943",
+      "DisplayName": "YourNameConsole",
+      "ColorIndex": 0
+    },
+    "10c552aa-8eb6-4473-bc50-ba4064ac049f": {
+      "ProjectGuid": "10c552aa-8eb6-4473-bc50-ba4064ac049f",
+      "DisplayName": "Lp4-1new",
+      "ColorIndex": 1
+    },
+    "2cdbd860-d7c7-49a1-a56a-059d66c02689": {
+      "ProjectGuid": "2cdbd860-d7c7-49a1-a56a-059d66c02689",
+      "DisplayName": "FavClubConsole",
+      "ColorIndex": 2
+    },
+    "02e8cf60-4f67-48f3-9158-e17a11233901": {
+      "ProjectGuid": "02e8cf60-4f67-48f3-9158-e17a11233901",
+      "DisplayName": "HelloName",
+      "ColorIndex": 3
+    },
+    "09607e64-d29b-4d2b-a2c0-896109a4e9e5": {
+      "ProjectGuid": "09607e64-d29b-4d2b-a2c0-896109a4e9e5",
+      "DisplayName": "lp4-1",
+      "ColorIndex": 4
+    },
+    "b2c53c7c-a700-4105-930e-ddf6fbf25175": {
+      "ProjectGuid": "b2c53c7c-a700-4105-930e-ddf6fbf25175",
+      "DisplayName": "WindowsFormsApplication1",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

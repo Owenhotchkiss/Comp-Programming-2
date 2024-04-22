@@ -10,8 +10,11 @@ namespace YourNameConsole
     {
         static void Main(string[] args)
         {
-            Console.Write("Owen Hotchkiss");
-            Console.ReadLine();
+            Console.Write("Enter # if copies to be printed: ");
+            int copies = int.Parse(Console.ReadLine());
+            double price = 0;
+            double cost = 0;
+            
         }
     }
 }
