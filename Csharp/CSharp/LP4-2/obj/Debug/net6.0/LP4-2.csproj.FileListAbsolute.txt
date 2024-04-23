@@ -1,0 +1,5 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.AssemblyInfoInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.AssemblyInfo.cs
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.csproj.CoreCompileInputs.cache
