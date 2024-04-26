@@ -17,14 +17,18 @@ namespace _266LargeSmall
             InitializeComponent();
             int num1 = int.Parse(textBox1.Text);
             int num2 = int.Parse(textBox2.Text);
-            int Bignum = 0;
 
-            if (num1 > num2);
-            Bignum = num1;
-            if (num2 > num1);
-            Bignum = num2;
-            else;
-            textBox3.Text = "The numbers given are equal";
+            if (num1 > num2)
+            {
+                textBox3.Text = num1.ToString();
+            } else if (num2 > num1)
+            {
+                textBox3.Text = num2.ToString();
+            } else
+            {
+                textBox3.Text = "The numbers given are equal";
+            }
+            
         }
     }
 }

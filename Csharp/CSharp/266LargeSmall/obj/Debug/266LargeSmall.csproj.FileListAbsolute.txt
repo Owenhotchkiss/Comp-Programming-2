@@ -1,0 +1,11 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\obj\Debug\266LargeSmall.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\obj\Debug\266LargeSmall.csproj.SuggestedBindingRedirects.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\obj\Debug\_266LargeSmall.Form1.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\obj\Debug\_266LargeSmall.Properties.Resources.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\obj\Debug\266LargeSmall.csproj.GenerateResource.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\obj\Debug\266LargeSmall.csproj.CoreCompileInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\bin\Debug\266LargeSmall.exe.config
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\bin\Debug\266LargeSmall.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\bin\Debug\266LargeSmall.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\obj\Debug\266LargeSmall.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\266LargeSmall\obj\Debug\266LargeSmall.pdb
