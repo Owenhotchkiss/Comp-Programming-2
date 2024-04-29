@@ -75,7 +75,17 @@
       "ProjectGuid": "3f714380-b486-4837-9c1f-bb1441577063",
       "DisplayName": "Prog88a",
       "ColorIndex": 14
+    },
+    "beb7f969-9671-431a-be22-e1f3d58eca0c": {
+      "ProjectGuid": "beb7f969-9671-431a-be22-e1f3d58eca0c",
+      "DisplayName": "pg273BookClubPoints",
+      "ColorIndex": 15
+    },
+    "4fe0ab80-21d7-4cd4-936f-ecdff015071a": {
+      "ProjectGuid": "4fe0ab80-21d7-4cd4-936f-ecdff015071a",
+      "DisplayName": "Prog122a",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 1
 }
