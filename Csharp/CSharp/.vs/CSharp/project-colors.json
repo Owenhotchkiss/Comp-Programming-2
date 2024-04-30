@@ -76,16 +76,21 @@
       "DisplayName": "Prog88a",
       "ColorIndex": 14
     },
-    "beb7f969-9671-431a-be22-e1f3d58eca0c": {
-      "ProjectGuid": "beb7f969-9671-431a-be22-e1f3d58eca0c",
-      "DisplayName": "pg273BookClubPoints",
-      "ColorIndex": 15
-    },
     "4fe0ab80-21d7-4cd4-936f-ecdff015071a": {
       "ProjectGuid": "4fe0ab80-21d7-4cd4-936f-ecdff015071a",
       "DisplayName": "Prog122a",
+      "ColorIndex": 15
+    },
+    "beb7f969-9671-431a-be22-e1f3d58eca0c": {
+      "ProjectGuid": "beb7f969-9671-431a-be22-e1f3d58eca0c",
+      "DisplayName": "pg273BookClubPoints",
       "ColorIndex": 0
+    },
+    "5efd45bf-3e47-4da3-9543-e2d182c52717": {
+      "ProjectGuid": "5efd45bf-3e47-4da3-9543-e2d182c52717",
+      "DisplayName": "pg273MassandWeight",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
