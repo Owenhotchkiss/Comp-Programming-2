@@ -90,7 +90,22 @@
       "ProjectGuid": "5efd45bf-3e47-4da3-9543-e2d182c52717",
       "DisplayName": "pg273MassandWeight",
       "ColorIndex": 1
+    },
+    "582e3acd-7c13-4839-aa8e-6ad726da9b5d": {
+      "ProjectGuid": "582e3acd-7c13-4839-aa8e-6ad726da9b5d",
+      "DisplayName": "prog310a",
+      "ColorIndex": 2
+    },
+    "e9317b2f-0aaa-40bd-bd05-c98a83635370": {
+      "ProjectGuid": "e9317b2f-0aaa-40bd-bd05-c98a83635370",
+      "DisplayName": "pg347Sum",
+      "ColorIndex": 3
+    },
+    "5f4a9407-44cd-46f4-9094-e338e99cca7d": {
+      "ProjectGuid": "5f4a9407-44cd-46f4-9094-e338e99cca7d",
+      "DisplayName": "lang85c",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }

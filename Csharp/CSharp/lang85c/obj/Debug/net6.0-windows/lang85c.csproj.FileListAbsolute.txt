@@ -1,0 +1,17 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\bin\Debug\net6.0-windows\lang85c.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\bin\Debug\net6.0-windows\lang85c.deps.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\bin\Debug\net6.0-windows\lang85c.runtimeconfig.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\bin\Debug\net6.0-windows\lang85c.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\bin\Debug\net6.0-windows\ref\lang85c.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\bin\Debug\net6.0-windows\lang85c.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.Form1.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.csproj.GenerateResource.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.AssemblyInfoInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.AssemblyInfo.cs
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.csproj.CoreCompileInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\ref\lang85c.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\lang85c\obj\Debug\net6.0-windows\lang85c.genruntimeconfig.cache

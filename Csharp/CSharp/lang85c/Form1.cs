@@ -6,5 +6,14 @@ namespace lang85c
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int num1 = int.Parse(textBox1.Text);
+            int num2 = num1 - 165;
+            double num3 = num2 / 100;
+            int num4 = num2 / 100;
+            label3.Text = (num4 + "/" + num3);
+        }
     }
 }
