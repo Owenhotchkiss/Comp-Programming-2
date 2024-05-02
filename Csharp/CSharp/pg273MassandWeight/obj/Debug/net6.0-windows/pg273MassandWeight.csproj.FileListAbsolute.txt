@@ -1,0 +1,17 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\bin\Debug\net6.0-windows\pg273MassandWeight.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\bin\Debug\net6.0-windows\pg273MassandWeight.deps.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\bin\Debug\net6.0-windows\pg273MassandWeight.runtimeconfig.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\bin\Debug\net6.0-windows\pg273MassandWeight.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\bin\Debug\net6.0-windows\ref\pg273MassandWeight.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\bin\Debug\net6.0-windows\pg273MassandWeight.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.Form1.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.csproj.GenerateResource.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.AssemblyInfoInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.AssemblyInfo.cs
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.csproj.CoreCompileInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\ref\pg273MassandWeight.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\pg273MassandWeight\obj\Debug\net6.0-windows\pg273MassandWeight.genruntimeconfig.cache
