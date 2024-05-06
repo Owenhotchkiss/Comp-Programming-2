@@ -1,0 +1,15 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\bin\Debug\net6.0\Lp4-1new.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\bin\Debug\net6.0\Lp4-1new.deps.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\bin\Debug\net6.0\Lp4-1new.runtimeconfig.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\bin\Debug\net6.0\Lp4-1new.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\bin\Debug\net6.0\ref\Lp4-1new.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\bin\Debug\net6.0\Lp4-1new.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\obj\Debug\net6.0\Lp4-1new.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\obj\Debug\net6.0\Lp4-1new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\obj\Debug\net6.0\Lp4-1new.AssemblyInfoInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\obj\Debug\net6.0\Lp4-1new.AssemblyInfo.cs
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\obj\Debug\net6.0\Lp4-1new.csproj.CoreCompileInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\obj\Debug\net6.0\Lp4-1new.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\obj\Debug\net6.0\ref\Lp4-1new.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\obj\Debug\net6.0\Lp4-1new.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Lp4-1new\obj\Debug\net6.0\Lp4-1new.genruntimeconfig.cache

@@ -1,6 +1,7 @@
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog54bConsole\bin\Debug\Prog54bConsole.exe.config
-C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.csprojResolveAssemblyReference.cache
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog54bConsole\bin\Debug\Prog54bConsole.exe
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog54bConsole\bin\Debug\Prog54bConsole.pdb
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.exe
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.csproj.CoreCompileInputs.cache

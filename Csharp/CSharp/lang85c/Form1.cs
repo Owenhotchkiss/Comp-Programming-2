@@ -15,5 +15,10 @@ namespace lang85c
             int num4 = num2 / 100;
             label3.Text = (num4 + "/" + num3);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

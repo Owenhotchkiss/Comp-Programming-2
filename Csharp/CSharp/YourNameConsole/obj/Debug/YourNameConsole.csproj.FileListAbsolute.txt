@@ -1,6 +1,7 @@
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\YourNameConsole\bin\Debug\YourNameConsole.exe.config
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\YourNameConsole\bin\Debug\YourNameConsole.exe
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\YourNameConsole\bin\Debug\YourNameConsole.pdb
-C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\YourNameConsole\obj\Debug\YourNameConsole.csprojResolveAssemblyReference.cache
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\YourNameConsole\obj\Debug\YourNameConsole.exe
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\YourNameConsole\obj\Debug\YourNameConsole.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\YourNameConsole\obj\Debug\YourNameConsole.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\YourNameConsole\obj\Debug\YourNameConsole.csproj.CoreCompileInputs.cache

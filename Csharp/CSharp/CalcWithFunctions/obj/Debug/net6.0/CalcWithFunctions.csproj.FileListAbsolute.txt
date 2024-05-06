@@ -1,0 +1,15 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.deps.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.runtimeconfig.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\bin\Debug\net6.0\ref\CalcWithFunctions.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.AssemblyInfoInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.AssemblyInfo.cs
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\obj\Debug\net6.0\ref\CalcWithFunctions.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.genruntimeconfig.cache

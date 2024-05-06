@@ -1,1 +1,10 @@
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\bin\Debug\Prog88a.exe.config
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\bin\Debug\Prog88a.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\bin\Debug\Prog88a.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\obj\Debug\Prog88a.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\obj\Debug\Prog88a.Form1.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\obj\Debug\Prog88a.Properties.Resources.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\obj\Debug\Prog88a.csproj.GenerateResource.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\obj\Debug\Prog88a.csproj.CoreCompileInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\obj\Debug\Prog88a.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\Prog88a\obj\Debug\Prog88a.pdb

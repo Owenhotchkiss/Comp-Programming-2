@@ -3,3 +3,5 @@ C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\ConsProg5
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\ConsProg54cConsole\bin\Debug\ConsProg54cConsole.pdb
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\ConsProg54cConsole\obj\Debug\ConsProg54cConsole.exe
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\ConsProg54cConsole\obj\Debug\ConsProg54cConsole.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\ConsProg54cConsole\obj\Debug\ConsProg54cConsole.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\ConsProg54cConsole\obj\Debug\ConsProg54cConsole.csproj.CoreCompileInputs.cache

@@ -1,1 +1,3 @@
 C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\ConsoleApplication1\obj\Debug\HelloName.csproj.AssemblyReference.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\ConsoleApplication1\obj\Debug\HelloName.csproj.CoreCompileInputs.cache

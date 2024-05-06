@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lp4-1new/1.0.0": {
+        "runtime": {
+          "Lp4-1new.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lp4-1new/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
