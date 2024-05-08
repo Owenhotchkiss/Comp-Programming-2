@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pg347Sum", "pg347Sum\pg347S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lang85c", "lang85c\lang85c.csproj", "{5F4A9407-44CD-46F4-9094-E338E99CCA7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{7E320FAC-AC70-438C-8DA8-2845DEE046A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{7E320FAC-AC70-438C-8DA8-2845DEE046A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg334LoanCalculator", "pg334LoanCalculator\pg334LoanCalculator.csproj", "{0C93BA9B-ED1B-477B-A873-9268B2AD3FF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pg334LoanCalculator", "pg334LoanCalculator\pg334LoanCalculator.csproj", "{0C93BA9B-ED1B-477B-A873-9268B2AD3FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg435TicketSalesCS", "pg435TicketSalesCS\pg435TicketSalesCS.csproj", "{8C6A4C5A-558C-4A86-B7BB-FE07540DE1AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{0C93BA9B-ED1B-477B-A873-9268B2AD3FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C93BA9B-ED1B-477B-A873-9268B2AD3FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C93BA9B-ED1B-477B-A873-9268B2AD3FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6A4C5A-558C-4A86-B7BB-FE07540DE1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6A4C5A-558C-4A86-B7BB-FE07540DE1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6A4C5A-558C-4A86-B7BB-FE07540DE1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6A4C5A-558C-4A86-B7BB-FE07540DE1AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

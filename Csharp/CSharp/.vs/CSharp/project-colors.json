@@ -105,7 +105,17 @@
       "ProjectGuid": "5f4a9407-44cd-46f4-9094-e338e99cca7d",
       "DisplayName": "lang85c",
       "ColorIndex": 4
+    },
+    "0c93ba9b-ed1b-477b-a873-9268b2ad3ff9": {
+      "ProjectGuid": "0c93ba9b-ed1b-477b-a873-9268b2ad3ff9",
+      "DisplayName": "pg334LoanCalculator",
+      "ColorIndex": 5
+    },
+    "7e320fac-ac70-438c-8da8-2845dee046a5": {
+      "ProjectGuid": "7e320fac-ac70-438c-8da8-2845dee046a5",
+      "DisplayName": "CalcWithFunctions",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
