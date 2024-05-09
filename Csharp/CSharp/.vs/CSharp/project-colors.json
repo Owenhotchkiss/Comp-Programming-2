@@ -115,7 +115,12 @@
       "ProjectGuid": "7e320fac-ac70-438c-8da8-2845dee046a5",
       "DisplayName": "CalcWithFunctions",
       "ColorIndex": 6
+    },
+    "8c6a4c5a-558c-4a86-b7bb-fe07540de1aa": {
+      "ProjectGuid": "8c6a4c5a-558c-4a86-b7bb-fe07540de1aa",
+      "DisplayName": "pg435TicketSalesCS",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

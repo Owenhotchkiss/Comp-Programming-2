@@ -1,0 +1,16 @@
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\bin\Debug\net6.0-windows\prog122bwhile.exe
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\bin\Debug\net6.0-windows\prog122bwhile.deps.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\bin\Debug\net6.0-windows\prog122bwhile.runtimeconfig.json
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\bin\Debug\net6.0-windows\prog122bwhile.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\bin\Debug\net6.0-windows\ref\prog122bwhile.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\bin\Debug\net6.0-windows\prog122bwhile.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\prog122bwhile.Form1.resources
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\prog122bwhile.csproj.GenerateResource.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\prog122bwhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\prog122bwhile.AssemblyInfoInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\prog122bwhile.AssemblyInfo.cs
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\prog122bwhile.csproj.CoreCompileInputs.cache
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\prog122bwhile.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\ref\prog122bwhile.dll
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\prog122bwhile.pdb
+C:\Users\hotchkiss.o\Documents\GitHub\Comp-Programming-2\Csharp\CSharp\prog122bwhile\obj\Debug\net6.0-windows\prog122bwhile.genruntimeconfig.cache
